@@ -34,6 +34,21 @@ The plastic menace is not an issue where the solution is not known. We all are a
 
 By enabling the exchange of plastic for money, items, or Blockchain secured digital tokens, we reveal the value in plastic. This empowers recycling ecosystems around Batticaloa and the world and stops the flow of plastic into our oceans. Deriving from the rice mill, the projects produce/innovate a plastic mill that can crush the plastic into rice particles as raw materials for production. This machine, can transform as a Entrepreneurial social business which serves the poor to reduce the poverty while translating the plastic waste into money to make the single use plastic as the long lasting plastic products. All while helping people living in poverty build better futures. Plastic Bank creates social and environmental impact in areas with high levels of poverty and plastic pollution by turning plastic waste into a currency. To do this, Plastic Bank provides a consistent, above-market rate for plastic waste, thus incentivizing its collection. Individuals who gather our plastic can trade it for money, items or services. Plastic Bank also provides the ability for local entrepreneurs to set up and operate a convenience store for the poor, in which plastic waste is the currency. Plastic collected through Plastic Bank is recycled and sold at a premium as Social Plastic®. The value of Social Plastic® goes beyond the commodity price of plastic: a ladder of opportunity is created for the world's poor by providing access to income, goods and services and plastic is kept out of the ocean.
 
+## Prototype
+
+According to our plan the first step is to grind plastic dew to that we have created the prototype .We have created this using cardboard and plywood instead of metel blades
+
+* created the blades(approximately we have created 65 blades)
+* Arranged the blades in an iron rod
+* Fix the iron rod in a box us showed bellow
+* Fix the box in a suitable table with hole in it
+* Supply the motors with power
+* Fix a chimney where we can put the plastics
+* Finally its ready to grind plastic
+* Fix a chimney where we can put the plastics
+
+
+
 ## References
 
 - [Precious Plastic](https://preciousplastic.com)
