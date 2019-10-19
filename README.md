@@ -47,7 +47,7 @@ According to our plan the first step is to grind plastic dew to that we have cre
 * Finally its ready to grind plastic
 * Fix a chimney where we can put the plastics
 
-
+![circular-plastic](/images/circular-plastic-pic-7.jpg)
 
 ## References
 
