@@ -49,6 +49,8 @@ According to our plan the first step is to grind plastic dew to that we have cre
 
 ![circular-plastic](/images/circular-plastic-pic-7.jpg)
 
+![circular-plastic](/images/circular-plastic-pic-4.jpg)
+
 ## References
 
 - [Precious Plastic](https://preciousplastic.com)
