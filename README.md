@@ -4,8 +4,10 @@ Community Innovation project of DreamSpace Academy to engage people with plastic
 
 ## Collaborators
 
-- Charles Grashiyan
+- Jayanthan Amalanathan
+- Thanushkar Srikaran
 - Aravinth Panch
+- Charles Grashiyan
 
 ## Interaction
 
@@ -28,11 +30,15 @@ In the 1980s, the plastic industry offered recycling as a solution, encouraging 
 
 ## Where Sri Lanka stands
 
-The plastic menace is not an issue where the solution is not known. We all are aware of proper disposal of garbage, and it can be done byanyone. It is the responsibility of each person using plastics to take action in their capacity to minimize the magnitude of this issue. With the right policies and regulations in place, it is a matter of ensuring implementation by strengthening the relevant authorities and systems, to take action as a nation to overcome this challenge. Sri Lanka banned the import, sale, and use of polyethylene bags <20 microns and Styrofoam containers in 2017\. However, the implementation and monitoring of this ban has not been adequate and was met with a number of oppositions by the industrial sector, requesting for a more phased and practical solution to be adopted within a given time period.
+The plastic menace is not an issue where the solution is not known. We all are aware of proper disposal of garbage, and it can be done byanyone. It is the responsibility of each person using plastics to take action in their capacity to minimize the magnitude of this issue. With the right policies and regulations in place, it is a matter of ensuring implementation by strengthening the relevant authorities and systems, to take action as a nation to overcome this challenge. Sri Lanka banned the import, sale, and use of polyethylene bags <20 microns and Styrofoam containers in 2017. However, the implementation and monitoring of this ban has not been adequate and was met with a number of oppositions by the industrial sector, requesting for a more phased and practical solution to be adopted within a given time period.
 
 ## Materials And Methodology
 
 By enabling the exchange of plastic for money, items, or Blockchain secured digital tokens, we reveal the value in plastic. This empowers recycling ecosystems around Batticaloa and the world and stops the flow of plastic into our oceans. Deriving from the rice mill, the projects produce/innovate a plastic mill that can crush the plastic into rice particles as raw materials for production. This machine, can transform as a Entrepreneurial social business which serves the poor to reduce the poverty while translating the plastic waste into money to make the single use plastic as the long lasting plastic products. All while helping people living in poverty build better futures. Plastic Bank creates social and environmental impact in areas with high levels of poverty and plastic pollution by turning plastic waste into a currency. To do this, Plastic Bank provides a consistent, above-market rate for plastic waste, thus incentivizing its collection. Individuals who gather our plastic can trade it for money, items or services. Plastic Bank also provides the ability for local entrepreneurs to set up and operate a convenience store for the poor, in which plastic waste is the currency. Plastic collected through Plastic Bank is recycled and sold at a premium as Social Plastic®. The value of Social Plastic® goes beyond the commodity price of plastic: a ladder of opportunity is created for the world's poor by providing access to income, goods and services and plastic is kept out of the ocean.
+
+## Prototype V 2.0
+
+
 
 ## Prototype V 1.0
 
@@ -52,6 +58,8 @@ According to our plan the first step is to grind plastic dew to that we have cre
 ![circular-plastic](/images/circular-plastic-pic-2.jpg)
 
 ![circular-plastic](/images/circular-plastic-pic-4.jpg)
+
+
 
 ## References
 
