@@ -1,5 +1,5 @@
+<h1>Circular Plastic</h1>
 
-# Circular Plastic
 <p align="left">
 Community Innovation project of DreamSpace Academy to engage people with plastic awareness
 </p>
@@ -11,9 +11,10 @@ Community Innovation project of DreamSpace Academy to engage people with plastic
 ## Collaborators
 
 - Jayanthan Amalanathan
+- Aravinth Panch
+- Abitharani Jeyachandran
 - Jerushan Srikaran
 - Thanushkar Srikaran
-- Aravinth Panch
 - Charles Grashiyan
 
 ## Interaction
