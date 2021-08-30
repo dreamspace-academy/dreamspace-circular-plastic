@@ -5,7 +5,7 @@ Community Innovation project of DreamSpace Academy to engage people with plastic
 </p>
 
 <p align="center">
-<img src=".media\community-prototype\2019-11-circular-plastic-11.jpg" alt= "GESTURES" width=70% height=50%/>
+<img src="./media/community-prototype/2019-11-circular-plastic-11.jpg" alt= "GESTURES" width=70% height=50%/>
 </p>
 
 ## Collaborators
