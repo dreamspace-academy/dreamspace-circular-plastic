@@ -1,11 +1,12 @@
 
 # Circular Plastic
+<p align="left">
+Community Innovation project of DreamSpace Academy to engage people with plastic awareness
+</p>
 
 <p align="center">
 <img src=".media\community-prototype\2019-11-circular-plastic-11.jpg" alt= "GESTURES" width=70% height=50%/>
 </p>
-
-Community Innovation project of DreamSpace Academy to engage people with plastic awareness
 
 ## Collaborators
 
