@@ -8,15 +8,18 @@ Community Innovation project of DreamSpace Academy to engage people with plastic
 <img src="./media/community-prototype/2019-11-circular-plastic-11.jpg" alt= "GESTURES" width=70% height=50%/>
 </p>
 
-## Collaborators
+<h2>Collaborators</h2>
 
-- Jayanthan Amalanathan
-- Aravinth Panch
-- Abitharani Jeyachandran
-- Jerushan Srikaran
-- Thanushkar Srikaran
-- Charles Grashiyan
+<ul>
+  <li>Jayanthan Amalanathan</li>
+  <li>Aravinth Panch</li>
+  <li>Abitharani Jeyachandran</li>
+  <li>Jerushan Srikaran</li>
+  <li>Thanushkar Srikaran</li>
+  <li>Charles Grashiyan</li>
+</ul>
 
+<h2>Collaborators</h2>
 ## Interaction
 
 Since the revolutionary invention of the first synthetic polymer back in 1869 by John Wesley Hyatt, plastic manufacture has not been constrained by the limits of nature. The wide range of completely synthetic modern plastics started to be developed around a century ago, offering benefits not found in natural materials. With the countless possibilities of plastics, it was viewed as an abundant material that is inexpensive and safe, which could be shaped by humans to their desire.
