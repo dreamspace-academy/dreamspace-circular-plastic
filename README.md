@@ -63,10 +63,11 @@ According to our plan the first step is to grind plastic dew to that we have cre
 * Finally its ready to grind plastic
 * Fix a chimney where we can put the plastics
 
-<img src="/images/circular-plastic-pic-7.jpg" alt="Italian Trulli">
-<img src="/images/circular-plastic-pic-2.jpg" alt="Italian Trulli">
-<img src="/images/circular-plastic-pic-4.jpg" alt="Italian Trulli">
-
+<p align= "left">
+  <img src="..\images/circular-plastic-pic-7.jpg" alt="GESTURES" width=70% hight=50%/>
+  <img src="..\images/circular-plastic-pic-2.jpg" alt="GESTURES" width=70% hight=50%/>
+  <img src="..\images/circular-plastic-pic-4.jpg" alt="GESTURES" width=70% hight=50%/>
+</p>
 
 <h3>References</h3>
 
