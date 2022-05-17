@@ -5,10 +5,8 @@ Community Innovation project of DreamSpace Academy to engage people with plastic
 </p>
 
 <p align="center">
-<img src="./media/community-prototype/2019-11-circular-plastic-11.jpg" alt= "circular-plastic" width=70% height=50%/>
+<img src="./media/community-prototype/2019-11-circular-plastic-12.jpg" alt= "circular-plastic" width=70% height=50%/>
 </p>
- 
- 
 
 <h2>Collaborators</h2>
 
@@ -20,8 +18,6 @@ Community Innovation project of DreamSpace Academy to engage people with plastic
   <li>Thanushkar Srikaran</li>
   <li>Charles Grashiyan</li>
 </ul>
- 
- 
 
 <h2>Introduction</h2>
 
@@ -32,8 +28,6 @@ Over the last 50 years, plastics have saturated our world, and at present play a
 The perfect optimistic image of plastics did not last for long, as signs of negative impacts emerged with the persistence of plastic waste, raising concerns about pollution. Plastic debris in the oceans were first observed in the 1960s, a decade in which people in developed countries became increasingly aware of environmental problems. The anxiety about waste increased, as it was realized that plastic lasts forever in the environment. The reputation of plastics was lowered further, due to growing concern about the potential threat to human health from additives used in the plastic manufacturing process. These chemicals leach out to our food and water, and get accumulated in organisms, thereby affecting the health and wellbeing of future generations. The ultimate symbol of the issue of plastic waste is the Great Pacific Garbage Patch, the largest accumulation of ocean plastic in the world, which covers an estimated surface area of 1.6 million square kilometres with a mass of approximately 80,000 metric tonnes. Much of the debris found in this garbage patch floating in the Pacific Ocean, comprise micro plastics, smaller than 5mm in size, suspended throughout thewater column. Micro plastics are very difficult to remove and are often mistaken for food by marine animals. Ocean plastic is estimated to kill millions of marine animals every year, affecting nearly 700 species, including endangered ones; some are harmed visibly - strangled by abandoned fishing nets or discarded six-pack rings. Akin to the Great Pacific Garbage Patch, is the Indian Ocean Garbage Patch which was discovered in 2010. Its actual size is unknown as its borders remain dynamic and cannot be identified as a solid island of plastic. However estimates of its size range between 2 million to 5 million square kilometres and is heavily influenced by the monsoons which are unique to this region of world. Here too, micro plastics have been identified as the most prevalent material and is thought to originate from the countries that surround the Indian Ocean.
 
 In the 1980s, the plastic industry offered recycling as a solution, encouraging municipalities to collect and process recyclable materials as part of their waste management systems. However, it has not proved to be a great way to mitigate this serious issue and most plastics still end up in landfills or in the environment.
- 
- 
 
 <h2>Statistics</h2>
 
@@ -43,8 +37,6 @@ In the 1980s, the plastic industry offered recycling as a solution, encouraging 
 - The world uses 500 billion plastic cups every year
 - 16 billion disposable coffee cups are used each year. These are coated with plastic to laminate the inside and use plastic lids
 - The world produces more than 14 million tonnes of polystyrene (plastic foam) each year
- 
- 
 
 <h2>Motivation</h2>
 
@@ -58,8 +50,6 @@ For many people in Sri Lanka, we’re just happy to litter wherever we are and w
 <h3>The marine diversity in Sri Lanka</h3>
 
 Sri Lanka, as an island nation with a coastline of 1,585 kilometers, is home to rich and diverse marine life. But little is known about the vast array of species that inhabit our waters or about the marine habitats that these species inhabit. Through this calendar, IUCN Sri Lanka particularly aims to create a better understanding and awareness of the importance and threats facing a selection of Sri Lanka’s marine species.
- 
- 
 
 <h2>Problem</h2>
 
@@ -71,8 +61,6 @@ For many people in Sri Lanka, we’re just happy to litter wherever we are and w
 <h3>Solid Waste Management</h3>
 
 Waste management has become a huge challenge for countries worldwide due to the vast amounts of waste produced from modern consumption. Unfortunately, most of this waste ends up in landfills, burned, or even worse - in the environment or the ocean. Unfortunately, the use of plastic in single-use packaging has significantly increased over the last 20 years. Plastic waste is especially an issue because of a long time it takes to degrade. The construction industry is known to be one of the biggest producers of landfilled waste. According to the Journal of Construction Engineering and Management, approximately 26% of landfills are occupied with construction waste. The question is - how can we push the construction and design industry to move towards more sustainable options and solutions?
- 
- 
 
 <h2>Solution</h2>
 
@@ -83,26 +71,19 @@ By enabling the exchange of plastic for money, items, or Blockchain secured digi
 They have created machines, documentation, video tutorials, campaigns and a platform to empower people across the planet to start working with plastic waste locally while trying to decentralise and localise plastic recycling technologies, infrastructures and knowledge by providing open-source designs for machines, moulds and consumer products, as well as business models and tools for you to set up and run a workspace.They share everything open source for anyone to benefit from. This means that all the knowledge, know-how, processes, methodologies and tools are available online, for free at all times. This open source philosophy is at the core of Precious Plastic and shapes most decisions within their team. They believe that collaboration is stronger than competition and that the plastic problem can only be solved collectively. We developed two prototype initally be developing Precious PLastic open source machines. The first one is a carboard prototype and the second one is the community prototype. 
 
 [Trash For Trade](https://trashfortrade.com/) bloomed by the development of the Prototype V3.0. The vision of Trash For Trade is a “Future free from plastic pollution” with the mission of Providing innovative, economical, efficient, reliable, ecofriendly and advanced upcycling technology to the Sri Lanka along with spreading awareness about its environmental and economic benefits. We accommodate the open source system into the Sri Lanka local environment. We have a working community for this project from different backgrounds to develop multi disciplinary and dimension projects. We developed a Social business model to assure the sustainability of the project. 
- 
-   
 
 <h2>Prototype V 3.0</h2>
- 
- 
+
 <p align= "center">
-<video width="320" height="240" controls>
-  <source src="./media/shredder-machine/milestone-06-completly working-shredder.mp4" type="video/mp4">
-</video>
+<iframe width="420" height="315"
+src="https://youtu.be/DqlY9ckVYO4">
+</iframe>
 </p>
-Refer [Trash For Trade](https://trashfortrade.com/) for further information.
- 
- 
+
+Visit [Trash For Trade](https://trashfortrade.com/) for further information.
 
 <h2>Prototype V 2.0</h2>
 
-
- 
- 
 <p align= "center">
   <img src="./media/community-prototype/2019-11-circular-plastic-2.jpg" alt="circular-plastic" width=35% hight=25%/>
 </p>
@@ -112,8 +93,6 @@ Refer [Trash For Trade](https://trashfortrade.com/) for further information.
 <p align= "center">
   <img src="./media/community-prototype/2019-11-circular-plastic-13.jpg" alt="circular-plastic" width=35% hight=25%/>
 </p>
- 
- 
 
 <h2>Prototype V 1.0</h2>
 
@@ -128,7 +107,6 @@ According to our plan the first step is to grind plastic dew to that we have cre
 * Finally its ready to grind plastic
 * Fix a chimney where we can put the plastics
  
- 
 <p align= "center">
   <img src="./media/cardboard-ptototype/circular-plastic-pic-7.jpg" alt="circular-plastic" width=35% hight=25%/>
 </p>
@@ -138,7 +116,6 @@ According to our plan the first step is to grind plastic dew to that we have cre
 <p align= "center">
   <img src="./media/cardboard-ptototype/circular-plastic-pic-4.jpg" alt="circular-plastic" width=35% hight=25%/>
 </p>
- 
  
 <h2>References</h2>
 
