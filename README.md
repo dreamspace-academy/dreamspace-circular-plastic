@@ -19,8 +19,7 @@ Community Innovation project of DreamSpace Academy to engage people with plastic
   <li>Charles Grashiyan</li>
 </ul>
 
-<h2>Collaborators</h2>
-## Interaction
+<h2>Interaction</h2>
 
 Since the revolutionary invention of the first synthetic polymer back in 1869 by John Wesley Hyatt, plastic manufacture has not been constrained by the limits of nature. The wide range of completely synthetic modern plastics started to be developed around a century ago, offering benefits not found in natural materials. With the countless possibilities of plastics, it was viewed as an abundant material that is inexpensive and safe, which could be shaped by humans to their desire.
 
@@ -30,7 +29,7 @@ The perfect optimistic image of plastics did not last for long, as signs of nega
 
 In the 1980s, the plastic industry offered recycling as a solution, encouraging municipalities to collect and process recyclable materials as part of their waste management systems. However, it has not proved to be a great way to mitigate this serious issue and most plastics still end up in landfills or in the environment.
 
-## Statistics
+<h3>Statistics</h3>
 
 - About 1 trillion single-use plastic bags are used annually across the globe. That's nearly 2 million every minute
 - It is estimated that 1.15 to 2.41 million tonnes of plastics enter the ocean each year from rivers
@@ -39,21 +38,21 @@ In the 1980s, the plastic industry offered recycling as a solution, encouraging 
 - 16 billion disposable coffee cups are used each year. These are coated with plastic to laminate the inside and use plastic lids
 - The world produces more than 14 million tonnes of polystyrene (plastic foam) each year
 
-## Where Sri Lanka stands
+<h3>Where Sri Lanka stands</h3>
 
 The plastic menace is not an issue where the solution is not known. We all are aware of proper disposal of garbage, and it can be done byanyone. It is the responsibility of each person using plastics to take action in their capacity to minimize the magnitude of this issue. With the right policies and regulations in place, it is a matter of ensuring implementation by strengthening the relevant authorities and systems, to take action as a nation to overcome this challenge. Sri Lanka banned the import, sale, and use of polyethylene bags <20 microns and Styrofoam containers in 2017. However, the implementation and monitoring of this ban has not been adequate and was met with a number of oppositions by the industrial sector, requesting for a more phased and practical solution to be adopted within a given time period.
 
-## Materials And Methodology
+<h3>Materials And Methodology</h3>
 
 By enabling the exchange of plastic for money, items, or Blockchain secured digital tokens, we reveal the value in plastic. This empowers recycling ecosystems around Batticaloa and the world and stops the flow of plastic into our oceans. Deriving from the rice mill, the projects produce/innovate a plastic mill that can crush the plastic into rice particles as raw materials for production. This machine, can transform as a Entrepreneurial social business which serves the poor to reduce the poverty while translating the plastic waste into money to make the single use plastic as the long lasting plastic products. All while helping people living in poverty build better futures. Plastic Bank creates social and environmental impact in areas with high levels of poverty and plastic pollution by turning plastic waste into a currency. To do this, Plastic Bank provides a consistent, above-market rate for plastic waste, thus incentivizing its collection. Individuals who gather our plastic can trade it for money, items or services. Plastic Bank also provides the ability for local entrepreneurs to set up and operate a convenience store for the poor, in which plastic waste is the currency. Plastic collected through Plastic Bank is recycled and sold at a premium as Social Plastic®. The value of Social Plastic® goes beyond the commodity price of plastic: a ladder of opportunity is created for the world's poor by providing access to income, goods and services and plastic is kept out of the ocean.
 
-## Prototype V 2.0
+<h3>Prototype V 2.0</h3>
 
 
 
-## Prototype V 1.0
+<h3>Prototype V 1.0</h3>
 
-According to our plan the first step is to grind plastic dew to that we have created the prototype .We have created this using cardboard and plywood instead of metel blades
+According to our plan the first step is to grind plastic dew to that we have created the prototype. We have created this using cardboard and plywood instead of metel blades
 
 * created the blades(approximately we have created 65 blades)
 * Arranged the blades in an iron rod
@@ -64,15 +63,12 @@ According to our plan the first step is to grind plastic dew to that we have cre
 * Finally its ready to grind plastic
 * Fix a chimney where we can put the plastics
 
-![circular-plastic](/images/circular-plastic-pic-7.jpg)
-
-![circular-plastic](/images/circular-plastic-pic-2.jpg)
-
-![circular-plastic](/images/circular-plastic-pic-4.jpg)
+<img src="/images/circular-plastic-pic-7.jpg" alt="Italian Trulli">
+<img src="/images/circular-plastic-pic-2.jpg" alt="Italian Trulli">
+<img src="/images/circular-plastic-pic-4.jpg" alt="Italian Trulli">
 
 
-
-## References
+<h3>References</h3>
 
 - [Precious Plastic](https://preciousplastic.com)
 - [DreamSpace Guidelines](https://github.com/dreamspace-academy/dreamspace-guidelines)
