@@ -78,12 +78,6 @@ We developed two prototype initally be developing Precious PLastic open source m
 
 <h2>Prototype V 3.0</h2>
 
-<p align= "center">
-<iframe width="420" height="315"
-src="https://youtu.be/DqlY9ckVYO4">
-</iframe>
-</p>
-
 Visit [Trash For Trade](https://trashfortrade.com/) for further information.
 
 <h2>Prototype V 2.0</h2>
@@ -99,17 +93,6 @@ Visit [Trash For Trade](https://trashfortrade.com/) for further information.
 </p>
 
 <h2>Prototype V 1.0</h2>
-
-According to our plan the first step is to grind plastic dew to that we have created the prototype. We have created this using cardboard and plywood instead of metel blades
-
-* created the blades(approximately we have created 65 blades)
-* Arranged the blades in an iron rod
-* Fix the iron rod in a box us showed bellow
-* Fix the box in a suitable table with hole in it
-* Supply the motors with power
-* Fix a chimney where we can put the plastics
-* Finally its ready to grind plastic
-* Fix a chimney where we can put the plastics
  
 <p align= "center">
   <img src="./media/cardboard-ptototype/circular-plastic-pic-7.jpg" alt="circular-plastic" width=35% hight=25%/>
@@ -117,7 +100,8 @@ According to our plan the first step is to grind plastic dew to that we have cre
 <p align= "center">
   <img src="./media/cardboard-ptototype/circular-plastic-pic-2.jpg" alt="circular-plastic" width=35% hight=25%/>
   </p>
-<p align= "center">
+<p align= "center">git push
+
   <img src="./media/cardboard-ptototype/circular-plastic-pic-4.jpg" alt="circular-plastic" width=35% hight=25%/>
 </p>
  
