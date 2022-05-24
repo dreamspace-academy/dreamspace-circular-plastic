@@ -102,7 +102,7 @@ Visit [Trash For Trade](https://trashfortrade.com/) for further information.
 <p align= "center">
   <img src="./media/cardboard-ptototype/circular-plastic-pic-2.jpg" alt="circular-plastic" width=35% hight=25%/>
   </p>
-<p align= "center">git push
+<p align= "center">
 
   <img src="./media/cardboard-ptototype/circular-plastic-pic-4.jpg" alt="circular-plastic" width=35% hight=25%/>
 </p>
